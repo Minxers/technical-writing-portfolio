@@ -72,7 +72,7 @@ End-user documentation for SanDisk's mobile application. Covers installation, se
 ---
 
 ### Enterprise Hardware Documentation
-**[RapidFlex™ A1000 - Hot Plug Support](user-guides/rapidflex-a1000-hot-plug-support.md)**
+**[RapidFlex™ A1000 - Hot Plug Support](user-guides/rapidflex-a1000-hotplug-support.md)**
 
 Condensed excerpt from a 189-page enterprise user guide for Western Digital's RapidFlex™ A1000 bridge device. Focuses on hot plug procedures, safety protocols, and system integration best practices.
 
